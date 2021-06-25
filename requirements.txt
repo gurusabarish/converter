@@ -1,5 +1,5 @@
 asgiref==3.3.4
-Django==3.2.3
+Django==3.2.4
 docx2pdf==0.1.7
 img2pdf==0.4.1
 lxml==4.6.3
