@@ -3,7 +3,7 @@ Django==3.2.4
 docx2pdf==0.1.7
 img2pdf==0.4.1
 lxml==4.6.3
-pikepdf==2.13.0
+pikepdf==2.14.0.post1
 Pillow==8.2.0
 pytz==2021.1
 pywin32==301
