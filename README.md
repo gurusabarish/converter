@@ -1,5 +1,5 @@
 # converter
-Django web app to convert image format
+A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django
 
 ## Local setup
 
