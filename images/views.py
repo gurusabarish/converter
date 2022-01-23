@@ -1,7 +1,6 @@
 from django.shortcuts import render, HttpResponse
 import img2pdf
 from PIL import Image
-import io
 
 
 def imgtopdf(request):
